@@ -5,10 +5,13 @@
 How about a horizontal rule 
 ---
 
-```
+
 * bulleted list
 * item 2
 * next item
+
+```
+and some highlighted stuff...
 ```
 
 > blockquote
@@ -18,4 +21,7 @@ How about a horizontal rule
 
 
 New text file for the next branch
+
+Going to try and revert this change
+
 
