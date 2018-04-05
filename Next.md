@@ -1,13 +1,15 @@
 # How about some MarkDown practice
 
-Heading
-=======
-
 ## Sub heading?
 
+How about a horizontal rule 
+---
+
+```
 * bulleted list
 * item 2
 * next item
+```
 
 > blockquote
 > nother blockquote line
